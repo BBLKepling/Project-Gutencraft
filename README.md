@@ -7,7 +7,8 @@ https://www.gutenberg.org/
 
 https://www.gutenberg.org/policy/permission.html
 
-
 https://www.curseforge.com/minecraft/mc-mods/lost-books
 
 https://www.curseforge.com/minecraft/mc-mods/patchouli
+
+https://vazkiimods.github.io/Patchouli/docs/patchouli-basics/getting-started/
